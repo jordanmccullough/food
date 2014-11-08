@@ -1,0 +1,3 @@
+[submodule "dependencies/bootstrap-sass"]
+	path = dependencies/bootstrap-sass
+	url = https://github.com/twbs/bootstrap-sass
