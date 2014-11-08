@@ -1,6 +1,6 @@
 ---
 layout: site
-title:
+title: Food & Recipes
 ---
 
 Food & Recipes
